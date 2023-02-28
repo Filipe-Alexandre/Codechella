@@ -1,8 +1,8 @@
-<h1>Codechella</h1>
+<h1><strong>Codechella</strong></h1>
 
-Desafios de Front-End Alura
+<h2>Desafios de Front-End Alura</h2>
 
-<h2>Semana - 01</h2>
+<h3>Semana - 01</h3>
 <ul>
     <li>
         <a href="https://filipe-alexandre.github.io/Codechella/semana-01/portifolio/" target="_blank">Meu Portifólio</a>
@@ -15,7 +15,7 @@ Desafios de Front-End Alura
     </li>
 </ul>
 
-<h2>Semana - 02</h2>
+<h3>Semana - 02</h3>
 <ul>
     <li>
         <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-mais/" target="_blank">Acessar projeto Alura+</a>
