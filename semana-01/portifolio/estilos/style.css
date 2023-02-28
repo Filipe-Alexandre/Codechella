@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+:root {
+    --fundo: #1C1D1C;
+    --hover: #242524;
+    --cinza: #AAA8A3;
+    --azul: #234D96;
+
+    --fonte-titulo: 'Krona One', sans-serif;
+    --fonte-texto: 'Montserrat', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--fonte-titulo);
+}
+
+body {
+    background-color: var(--fundo);
+    color: var(--cinza);
+}
+header {
+    padding: 2% 0 0 15%;
+}
+
+nav {
+    display: flex;
+    gap: 80px;
+}
+
+.link-nav {
+    font: 600 24px var(--fonte-texto);
+    color: var(--azul);
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.link-nav:hover {
+    background-color: var(--hover);
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5% 15%;
+}
+
+section {
+    width: 515px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+h1 {
+font-size: 34px;
+}
+
+strong {
+    color: var(--azul);
+}
+
+h2 {
+    font-family: var(--fonte-titulo);
+    font-weight: 400;
+    font-size: 24px;
+}
+
+p {
+    font-size: 24px;
+    font-family: var(--fonte-texto);
+}
+
+.estudos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.certificados {
+    color: var(--azul);
+    text-decoration: none;
+}
+
+span {
+    color: var(--azul);
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    color: var(--cinza);
+    border: 2px solid var(--azul);
+    font-weight: 600;
+    width: 80%;
+    text-align: center;
+    padding: 18px 0;
+    border-radius: 8px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.redes:hover {
+    background-color: var(--hover);
+}
+
+.logo {
+    width: 32px;
+}
+
+.foto {
+    width: 500px;
+    border-radius: 8px;
+    box-shadow: 2px -2px 5px var(--azul);
+    margin-left: 15px;
+    border: 2px solid var(--azul);
+}
+
+.posicao-foto-curriculo {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.fotinha {
+    width: 300px;
+    margin-left: 80px;
+    border-radius: 10px;
+    border: 3px solid var(--azul);
+}
+
+footer {
+    color: var(--fundo);
+    background-color: var(--azul);
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    font: normal normal 400 24px var(--fonte-texto);
+}
