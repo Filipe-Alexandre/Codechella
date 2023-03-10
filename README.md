@@ -20,7 +20,10 @@
     <li>
         <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-mais/" target="_blank">Acessar projeto Alura+</a>
     </li>
-        <li>
+    <li>
         <a href="https://filipe-alexandre.github.io/Codechella/semana-02/culturama/" target="_blank">Acessar projeto Culturama</a>
+    </li>
+    <li>
+        <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-books/" target="_blank">Acessar projeto Culturama</a>
     </li>
 </ul>
