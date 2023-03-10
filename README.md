@@ -24,6 +24,6 @@
         <a href="https://filipe-alexandre.github.io/Codechella/semana-02/culturama/" target="_blank">Acessar projeto Culturama</a>
     </li>
     <li>
-        <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-books/" target="_blank">Acessar projeto Culturama</a>
+        <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-books/" target="_blank">Acessar projeto Alura Books</a>
     </li>
 </ul>
