@@ -1,0 +1,31 @@
+@import '../abstract/variaveis';
+
+#pedra-flor {
+    display: inline-block;
+    text-align: center;
+    .img {
+        margin: 1rem;
+        padding: .5rem;
+    }
+    .txt {
+        background: linear-gradient(to bottom, white, $cor_tercearia);
+        padding: 1rem;
+        h3 {
+            font-size: $tamanho-do-texto / 1.8;
+            color: $cor-primaria;
+            font-weight: 500;
+        }
+
+        h4 {
+            font-size: $tamanho-do-texto / 2.5;
+            color: $cor-secundaria;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        p {
+            font-size: $tamanho-do-texto / 2.8;
+            color: $cor-primaria;
+        }
+    }
+}

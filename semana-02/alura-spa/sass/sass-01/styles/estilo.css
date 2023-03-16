@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/*funções sem parametros não precisam de parenteses poderia ser apenas @mixin reset {} / @include reset;*/
+/*funções com parametros precisam de parenteses*/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+.container .esquerdo {
+  width: 50vw;
+  background-color: #A79E8B;
+}
+.container .esquerdo .texto {
+  margin-top: 40vh;
+  text-align: center;
+  font-size: 100px;
+  color: #EDE7CF;
+}
+.container .direito {
+  width: 50vw;
+  background-color: #EDE7CF;
+}
+.container .direito .texto {
+  margin-top: 40vh;
+  text-align: center;
+  font-size: 100px;
+  color: #A79E8B;
+}/*# sourceMappingURL=estilo.css.map */
