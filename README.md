@@ -26,7 +26,10 @@
     <li>
         <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-books/" target="_blank">Acessar projeto Alura Books</a>
     </li>
-        <li>
+    <li>
         <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-spa/alura-spa" target="_blank">Acessar projeto Alura SPA</a>
+    </li>
+    <li>
+        <a href="https://filipe-alexandre.github.io/Codechella/semana-02/alura-spa/alura-newsletter/newsletter.html" target="_blank">Acessar projeto Alura Newsletter</a>
     </li>
 </ul>
